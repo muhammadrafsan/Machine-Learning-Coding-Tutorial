@@ -16,9 +16,19 @@ More tutorials will be added as the project progresses!
 
 ## 🚀 Getting Started
 
+### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/muhammadrafsan/Machine-Learning-Coding-Tutorial.git
+````
+### 2. Navigate to the Directory
+
+```bash
 cd Machine-Learning-Coding-Tutorial
+````
+### 3. Install Required Packages
+
+```bash
 pip install -r requirements.txt
 ````
 
